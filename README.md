@@ -1,4 +1,3 @@
-			Egen Coding Challenge 
 	A restful web service for user management using:-
 	1)Spark Java
 	2)MongoDB
